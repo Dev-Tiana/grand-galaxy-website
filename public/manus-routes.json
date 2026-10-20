@@ -1,17 +1,18 @@
 {
   "routes": [
     { "path": "/", "title": "Home" },
-    { "path": "/training", "title": "Training" },
+    { "path": "/training", "title": "Training programmes" },
     { "path": "/training/:slug", "title": "Training programme" },
-    { "path": "/services", "title": "Services" },
+    { "path": "/services", "title": "Professional services" },
     { "path": "/services/:slug", "title": "Service detail" },
-    { "path": "/about", "title": "About" },
-    { "path": "/resources", "title": "Resources" },
+    { "path": "/about", "title": "About Grand Galaxy" },
+    { "path": "/resources", "title": "Ideas and insights" },
+    { "path": "/resources/:slug", "title": "Practical guide" },
     { "path": "/faq", "title": "Frequently asked questions" },
-    { "path": "/contact", "title": "Contact" },
-    { "path": "/register", "title": "Registration" },
-    { "path": "/legal/privacy", "title": "Privacy" },
-    { "path": "/legal/terms", "title": "Terms" },
+    { "path": "/contact", "title": "Talk about your project" },
+    { "path": "/register", "title": "Register for training" },
+    { "path": "/legal/privacy", "title": "Privacy policy" },
+    { "path": "/legal/terms", "title": "Terms and conditions" },
     { "path": "/legal/academic-integrity", "title": "Academic integrity" }
   ]
 }

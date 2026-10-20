@@ -1,8 +1,6 @@
 import Link from 'next/link';
-import { ArrowRight, Check, CircleAlert } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import type { ReactNode } from 'react';
-import type { Status } from '@/lib/content';
-import { statusLabel } from '@/lib/content';
 
 export function SectionHeading({ eyebrow, title, children, align = 'left' }: { eyebrow?: string; title: string; children?: ReactNode; align?: 'left' | 'center' }) {
   return <div className={`section-heading ${align === 'center' ? 'section-heading-center' : ''}`}>
@@ -18,9 +16,8 @@ export function ButtonLink({ href, children, variant = 'primary', external = fal
   return <Link className={className} href={href}>{children}<ArrowRight size={17} /></Link>;
 }
 
-export function StatusChip({ status }: { status: Status }) {
-  const Icon = status === 'verified' ? Check : CircleAlert;
-  return <span className={`status-chip status-${status.replace(' ', '-')}`}><Icon size={14} />{statusLabel[status]}</span>;
+export function ProgrammeChip({ children }: { children: ReactNode }) {
+  return <span className="status-chip status-verified">{children}</span>;
 }
 
 export function Breadcrumbs({ items }: { items: { label: string; href?: string }[] }) {

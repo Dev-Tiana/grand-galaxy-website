@@ -5,22 +5,22 @@ import '../styles/globals.css';
 
 export const metadata: Metadata = {
   title: {
-    default: 'La Grande Galaxie | Practical learning and professional support',
+    default: 'La Grande Galaxie | Learn practical skills. Get professional solutions.',
     template: '%s | La Grande Galaxie'
   },
-  description: 'Explore practical training and professional support from La Grande Galaxie for learners, teams, and growing organizations.',
+  description: 'Build valuable skills in technology, data, digital marketing, and professional development. Find practical support for your business or project.',
   keywords: ['La Grande Galaxie', 'LGGx', 'professional training Nigeria', 'data skills training', 'technology services'],
   openGraph: {
     type: 'website',
     siteName: 'La Grande Galaxie',
-    title: 'La Grande Galaxie | Practical learning and professional support',
-    description: 'Explore practical training and professional support for people and organizations building useful capability.',
+    title: 'La Grande Galaxie | Learn practical skills. Get professional solutions.',
+    description: 'Build valuable skills and find professional support for your business or project.',
     images: [{ url: 'https://files.manuscdn.com/user_upload_by_module/session_file/310519664032434622/TdpCNdGEhjUMHpBn.png', width: 1072, height: 508, alt: 'La Grande Galaxie logo' }]
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'La Grande Galaxie | Practical learning and professional support',
-    description: 'Explore practical training and professional support for people and organizations building useful capability.',
+    title: 'La Grande Galaxie | Learn practical skills. Get professional solutions.',
+    description: 'Build valuable skills and find professional support for your business or project.',
     images: ['https://files.manuscdn.com/user_upload_by_module/session_file/310519664032434622/TdpCNdGEhjUMHpBn.png']
   },
   robots: { index: true, follow: true }

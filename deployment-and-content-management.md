@@ -12,7 +12,13 @@ Commit source changes to the managed project repository and create a checkpoint 
 
 ## Content updates
 
-The current content model is file based in `lib/content.ts`. A content editor can update programme and service records, status labels, summaries, details, resources, and FAQs there. Keep all public claims tied to an approved source. When a programme becomes current, replace the approval status with approved dates, fee, format, delivery, certificate, support, and last updated date. When a cohort ends, archive or relabel it rather than leaving old dates as current.
+The current content model is file based in `lib/content.ts`. A content editor can update programme and service records, prices, summaries, details, images, source links, resources, and FAQs there. Keep public claims tied to an approved source. When a date, fee, format, delivery detail, or certificate policy changes, update the relevant programme record and its source link together.
+
+Programme and service images live in `public/assets`. Use WebP images with descriptive filenames, meaningful alt text, and a clear source record. Keep each catalogue card visually distinct where an appropriate approved or reusable visual exists.
+
+## Form handoff
+
+`components/forms.tsx` validates the contact and registration fields in the browser and creates an email draft addressed to `info@grandgalaxy.ng`. This is an intentional no storage handoff. For production, replace or extend it with an approved server side email, CRM, or form provider with consent, spam protection, retention, and access controls.
 
 ## Future CMS decision
 
@@ -20,4 +26,4 @@ A CMS is useful if staff will update courses, services, and resources regularly.
 
 ## Production readiness
 
-Before launch, configure a real public origin for canonical and social metadata, connect an approved form or CRM, configure consent and analytics, add approved legal copy, verify every phone and WhatsApp link, confirm current programme and service facts, and decide whether payment remains off platform or is implemented with an authorized secure provider.
+Before launch, configure a real public origin for canonical and social metadata, connect an approved form or CRM if direct server delivery is required, configure consent and analytics, verify every phone and WhatsApp link, confirm current programme and service facts, and decide whether payment remains off platform or is implemented with an authorized secure provider.
