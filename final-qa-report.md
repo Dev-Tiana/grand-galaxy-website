@@ -25,10 +25,11 @@ The contact form uses the approved business email `info@grandgalaxy.ng`. It vali
 * A clean Preview link audit checked 38 internal paths found from the public shell and returned no broken internal links.
 * A final rendered public copy audit found no hyphen, en dash, or em dash characters and no internal terms such as approval, preview, current public, historical reference, or pending confirmation.
 * A clean Preview route audit returned HTTP 200 for Home, Training, programme detail, Services, Resources, resource article, Contact, Register, `/manus-routes.json`, `/sitemap.xml`, and `/robots.txt`.
+* Static export compatibility was verified with `pnpm typecheck && pnpm build`; the build completed all 44 route variants and produced `out/index.html` with a 5.1 MB publish directory.
 
 ## Not configured
 
-No production origin is configured, so canonical URLs are intentionally not guessed. No SMTP, CRM, database, analytics property, payment provider, or production form storage is connected. The current forms use a visitor email draft handoff rather than silently storing personal data, so the site does not claim that an enquiry has been delivered. No accessibility audit tool, Core Web Vitals lab run, or production deployment test is claimed.
+No production origin is configured, so canonical URLs are intentionally not guessed. No SMTP, CRM, database, analytics property, payment provider, or production form storage is connected. The current forms use a visitor email draft handoff rather than silently storing personal data, so the site does not claim that an enquiry has been delivered. No accessibility audit tool, Core Web Vitals lab run, or successful production deployment is claimed until the managed publish completes.
 
 ## Launch approvals
 

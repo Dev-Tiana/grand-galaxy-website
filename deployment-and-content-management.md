@@ -4,7 +4,7 @@
 
 Use Node and pnpm. From the project root run `pnpm install`, then `pnpm dev` for Preview, `pnpm typecheck` for TypeScript validation, and `pnpm build` for the production build check.
 
-The project listens on port 3000 and serves the static route manifest from `/manus-routes.json`. The existing live domain is not modified by this project.
+The project listens on port 3000 for Preview and serves the static route manifest from `/manus-routes.json`. Production publishing uses the Next.js static export in `out`. The managed build contract runs `pnpm install --frozen-lockfile && pnpm build` and publishes `out`, which contains the generated `index.html` files and public assets. The existing live domain is not modified by this project.
 
 ## Managed project handoff
 
