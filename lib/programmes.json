@@ -6,19 +6,34 @@
     "kind": "Category",
     "format": "Live session course",
     "summary": "Explore digital marketing foundations, campaign thinking, online visibility, and practical communication for modern audiences.",
-    "overview": "Grand Galaxy presents Digital Marketing as a live session learning offer for people who want to understand how organisations communicate online. The current registration path asks learners to share their goals before a consultant provides access information.",
-    "outcomes": ["Understand the building blocks of digital marketing", "Connect audience needs to campaign ideas", "Practise clearer online communication and visibility planning"],
-    "audience": ["People beginning to explore digital marketing", "Business owners who want a clearer view of online promotion", "Professionals developing communication skills"],
-    "topics": ["Digital marketing foundations", "Audience and campaign thinking", "Online visibility and content planning"],
+    "overview": "Grand Galaxy presents Digital Marketing as a live session learning offer for people who want to understand how organisations communicate online.",
+    "outcomes": [
+      "Understand the building blocks of digital marketing",
+      "Connect audience needs to campaign ideas",
+      "Practise clearer online communication and visibility planning"
+    ],
+    "audience": [
+      "People beginning to explore digital marketing",
+      "Business owners who want a clearer view of online promotion",
+      "Professionals developing communication skills"
+    ],
+    "topics": [
+      "Digital marketing foundations",
+      "Audience and campaign thinking",
+      "Online visibility and content planning"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "A commitment fee is required for access to the exclusive platform. The current amount and start information are shared during registration.",
     "image": "/assets/business-meeting.webp",
-    "relatedSlugs": ["professional-online-training", "ui-ux-design", "writing"]
+    "relatedSlugs": [
+      "professional-online-training",
+      "ui-ux-design",
+      "writing"
+    ]
   },
   {
     "slug": "web-development",
@@ -28,18 +43,33 @@
     "format": "Learning pathway",
     "summary": "Build a grounded understanding of websites, digital experiences, and the thinking behind useful web projects.",
     "overview": "Web Development is a technology learning pathway for people who want to understand how websites are planned and built. It introduces the ideas behind useful digital experiences without presenting the current service offer as a training syllabus.",
-    "outcomes": ["Understand the parts of a modern website", "Recognise how interface, content, and functionality work together", "Describe a practical web project from idea to review"],
-    "audience": ["People beginning to explore web development", "Learners who want a foundation before choosing a technical route", "Business owners who want to understand web project decisions"],
-    "topics": ["Website foundations", "Front end and back end concepts", "Digital project planning"],
+    "outcomes": [
+      "Understand the parts of a modern website",
+      "Recognise how interface, content, and functionality work together",
+      "Describe a practical web project from idea to review"
+    ],
+    "audience": [
+      "People beginning to explore web development",
+      "Learners who want a foundation before choosing a technical route",
+      "Business owners who want to understand web project decisions"
+    ],
+    "topics": [
+      "Website foundations",
+      "Front end and back end concepts",
+      "Digital project planning"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "The current public site does not publish a dedicated Web Development training schedule or fee. Contact Grand Galaxy to ask about the learning route and current availability.",
     "image": "/assets/technology-learning.webp",
-    "relatedSlugs": ["ui-ux-design", "digital-marketing", "professional-online-training"]
+    "relatedSlugs": [
+      "ui-ux-design",
+      "digital-marketing",
+      "professional-online-training"
+    ]
   },
   {
     "slug": "data-analysis",
@@ -49,18 +79,34 @@
     "format": "Learning pathway",
     "summary": "Build a practical foundation for working with information, identifying patterns, and explaining findings clearly.",
     "overview": "Data Analysis is a broad learning pathway for people who want to work more confidently with information. It connects questions, data preparation, analysis, visual communication, and careful explanation.",
-    "outcomes": ["Frame a clearer question before opening a spreadsheet or tool", "Recognise common stages in a data analysis workflow", "Explain findings with appropriate context and limits"],
-    "audience": ["Students and researchers", "Professionals who work with business information", "People beginning to build data skills"],
-    "topics": ["Data preparation", "Tables and patterns", "Visual communication", "Explaining findings"],
+    "outcomes": [
+      "Frame a clearer question before opening a spreadsheet or tool",
+      "Recognise common stages in a data analysis workflow",
+      "Explain findings with appropriate context and limits"
+    ],
+    "audience": [
+      "Students and researchers",
+      "Professionals who work with business information",
+      "People beginning to build data skills"
+    ],
+    "topics": [
+      "Data preparation",
+      "Tables and patterns",
+      "Visual communication",
+      "Explaining findings"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "Ask Grand Galaxy about the current data analysis pathway and the tool specific programme that best matches your goal.",
     "image": "/assets/analytics-dashboard.webp",
-    "relatedSlugs": ["spss-excel", "powerbi-tableau-sql", "data-science-mentorship"]
+    "relatedSlugs": [
+      "spss-excel",
+      "powerbi-tableau-sql",
+      "data-science-mentorship"
+    ]
   },
   {
     "slug": "writing",
@@ -69,19 +115,34 @@
     "kind": "Category",
     "format": "Live session course",
     "summary": "Strengthen clear writing for academic, professional, and business communication.",
-    "overview": "Grand Galaxy presents Writing as a live session learning offer for people who want to communicate ideas with more structure and clarity. The registration path asks about goals and challenges before access information is shared.",
-    "outcomes": ["Shape a clearer structure for a piece of writing", "Improve clarity and flow for a reader", "Use practical editing habits to strengthen communication"],
-    "audience": ["Students and researchers", "Professionals who write reports or proposals", "People developing clearer business communication"],
-    "topics": ["Structure and expression", "Research and report writing", "Practical editing"],
+    "overview": "Grand Galaxy presents Writing as a live session learning offer for people who want to communicate ideas with more structure and clarity.",
+    "outcomes": [
+      "Shape a clearer structure for a piece of writing",
+      "Improve clarity and flow for a reader",
+      "Use practical editing habits to strengthen communication"
+    ],
+    "audience": [
+      "Students and researchers",
+      "Professionals who write reports or proposals",
+      "People developing clearer business communication"
+    ],
+    "topics": [
+      "Structure and expression",
+      "Research and report writing",
+      "Practical editing"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "A commitment fee is required for access to the exclusive platform. The current amount and start information are shared during registration.",
     "image": "/assets/digital-writing.webp",
-    "relatedSlugs": ["public-speaking", "digital-marketing", "professional-online-training"]
+    "relatedSlugs": [
+      "public-speaking",
+      "digital-marketing",
+      "professional-online-training"
+    ]
   },
   {
     "slug": "public-speaking",
@@ -91,18 +152,33 @@
     "format": "Live session course",
     "summary": "Develop a clearer structure and more confident delivery for presentations and professional conversations.",
     "overview": "Grand Galaxy presents Public Speaking as a live session learning offer with a registration path for people who want to improve how they communicate in public. The published registration form asks about intended start timing and the challenges a learner wants to address.",
-    "outcomes": ["Plan a presentation around a clear point", "Organise ideas for an audience", "Practise delivery for professional settings"],
-    "audience": ["Students and graduates", "Professionals who present ideas at work", "People who want structured speaking practice"],
-    "topics": ["Presentation structure", "Audience focused delivery", "Practice for professional settings"],
+    "outcomes": [
+      "Plan a presentation around a clear point",
+      "Organise ideas for an audience",
+      "Practise delivery for professional settings"
+    ],
+    "audience": [
+      "Students and graduates",
+      "Professionals who present ideas at work",
+      "People who want structured speaking practice"
+    ],
+    "topics": [
+      "Presentation structure",
+      "Audience focused delivery",
+      "Practice for professional settings"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "A commitment fee is required for access to the exclusive platform. The current amount and start information are shared during registration.",
     "image": "/assets/public-speaking.webp",
-    "relatedSlugs": ["writing", "ui-ux-design", "professional-online-training"]
+    "relatedSlugs": [
+      "writing",
+      "ui-ux-design",
+      "professional-online-training"
+    ]
   },
   {
     "slug": "ui-ux-design",
@@ -111,19 +187,34 @@
     "kind": "Category",
     "format": "Live session course",
     "summary": "Explore how interface design, user needs, and clear digital flows shape useful products.",
-    "overview": "Grand Galaxy lists UI UX as a live session training category. This page introduces the subject and gives visitors a clear route to ask about the current learning experience without claiming a published module list.",
-    "outcomes": ["Understand the difference between interface and experience concerns", "Connect user needs to clearer screen and flow decisions", "Discuss a digital product with more useful design language"],
-    "audience": ["People beginning to explore digital design", "Web and product teams building user focused experiences", "Learners interested in interface and user experience work"],
-    "topics": ["Interface design foundations", "User focused problem solving", "Digital design systems"],
+    "overview": "UI UX is a live session training category focused on interface design, user needs, and clearer digital flows.",
+    "outcomes": [
+      "Understand the difference between interface and experience concerns",
+      "Connect user needs to clearer screen and flow decisions",
+      "Discuss a digital product with more useful design language"
+    ],
+    "audience": [
+      "People beginning to explore digital design",
+      "Web and product teams building user focused experiences",
+      "Learners interested in interface and user experience work"
+    ],
+    "topics": [
+      "Interface design foundations",
+      "User focused problem solving",
+      "Digital design systems"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "The current public site does not publish a detailed syllabus or fee for UI UX. Ask about the next live session and access information.",
     "image": "/assets/ui-design.webp",
-    "relatedSlugs": ["web-development", "digital-marketing", "public-speaking"]
+    "relatedSlugs": [
+      "web-development",
+      "digital-marketing",
+      "public-speaking"
+    ]
   },
   {
     "slug": "spss-excel",
@@ -134,18 +225,41 @@
     "price": "₦35,000",
     "summary": "Work with Excel and SPSS for data preparation, analysis, visualisation, and interpretation, with an introduction to AI tools.",
     "overview": "This three week programme combines Excel and SPSS for learners who want practical data analysis experience. The published offer covers spreadsheet workflows, SPSS analysis, and a special class on AI for data analysis.",
-    "outcomes": ["Prepare and organise information in Excel", "Run and interpret common SPSS analyses", "Use charts and outputs to communicate findings", "Explore prompt engineering and AI tools for data analysis"],
-    "audience": ["Researchers and students", "Analysts and business professionals", "Learners moving from beginner to more advanced data work"],
-    "topics": ["Excel formulas, tables, pivots, charts, validation, and conditional formatting", "SPSS setup, data entry, cleaning, descriptive analysis, correlation, regression, t tests, and one way ANOVA", "AI for data analysis and visualisation"],
-    "curriculum": ["Excel formulas and functions", "Pivot tables, charts, slicers, validation, and conditional formatting", "AI for data analysis with prompt engineering and Microsoft Copilot", "SPSS data entry, import and export, cleaning, and manipulation", "Descriptive analysis, charts, correlation, regression, t tests, and one way ANOVA", "Understanding and presenting SPSS output"],
+    "outcomes": [
+      "Prepare and organise information in Excel",
+      "Run and interpret common SPSS analyses",
+      "Use charts and outputs to communicate findings",
+      "Explore prompt engineering and AI tools for data analysis"
+    ],
+    "audience": [
+      "Researchers and students",
+      "Analysts and business professionals",
+      "Learners moving from beginner to more advanced data work"
+    ],
+    "topics": [
+      "Excel formulas, tables, pivots, charts, validation, and conditional formatting",
+      "SPSS setup, data entry, cleaning, descriptive analysis, correlation, regression, t tests, and one way ANOVA",
+      "AI for data analysis and visualisation"
+    ],
+    "curriculum": [
+      "Excel formulas and functions",
+      "Pivot tables, charts, slicers, validation, and conditional formatting",
+      "AI for data analysis with prompt engineering and Microsoft Copilot",
+      "SPSS data entry, import and export, cleaning, and manipulation",
+      "Descriptive analysis, charts, correlation, regression, t tests, and one way ANOVA",
+      "Understanding and presenting SPSS output"
+    ],
     "duration": "3 weeks",
     "level": "Beginners to advanced level",
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "The current catalogue lists ₦35,000 for the combined offer. Ask Grand Galaxy about current delivery details and the next available start.",
     "image": "/assets/course-spss-excel.webp",
-    "relatedSlugs": ["spss-simplified", "data-analysis", "powerbi-tableau-sql"]
+    "relatedSlugs": [
+      "spss-simplified",
+      "data-analysis",
+      "powerbi-tableau-sql"
+    ]
   },
   {
     "slug": "data-science-mentorship",
@@ -156,18 +270,43 @@
     "price": "₦100,000",
     "summary": "Build a stronger data practice with Excel, SQL, Power BI, Python, projects, portfolio work, and mentorship.",
     "overview": "This twelve week online mentorship programme supports aspiring and transitioning data professionals through live and recorded learning, practical projects, portfolio work, and a learner community. It brings together Excel, SQL, Power BI, and Python in one structured learning experience.",
-    "outcomes": ["Use Excel, SQL, Power BI, and Python in a connected workflow", "Work through real world data problems and projects", "Build portfolio material and explain insights clearly", "Develop a more deliberate learning and professional practice"],
-    "audience": ["Aspiring data analysts and data scientists", "Students and recent graduates", "Working professionals moving into data work", "Beginners who want structured support"],
-    "topics": ["Excel for data analysis", "SQL for database management", "Power BI dashboards and reports", "Python with Pandas, NumPy, and Matplotlib", "Projects, portfolio building, and professional support"],
-    "curriculum": ["Excel formulas, pivot tables, and advanced techniques", "SQL querying, cleaning, and data structure", "Power BI dashboards and reports", "Python for analysis and visualisation with Pandas, NumPy, and Matplotlib", "Real world projects, portfolio building, and career readiness"],
+    "outcomes": [
+      "Use Excel, SQL, Power BI, and Python in a connected workflow",
+      "Work through real world data problems and projects",
+      "Build portfolio material and explain insights clearly",
+      "Develop a more deliberate learning and professional practice"
+    ],
+    "audience": [
+      "Aspiring data analysts and data scientists",
+      "Students and recent graduates",
+      "Working professionals moving into data work",
+      "Beginners who want structured support"
+    ],
+    "topics": [
+      "Excel for data analysis",
+      "SQL for database management",
+      "Power BI dashboards and reports",
+      "Python with Pandas, NumPy, and Matplotlib",
+      "Projects, portfolio building, and professional support"
+    ],
+    "curriculum": [
+      "Excel formulas, pivot tables, and advanced techniques",
+      "SQL querying, cleaning, and data structure",
+      "Power BI dashboards and reports",
+      "Python for analysis and visualisation with Pandas, NumPy, and Matplotlib",
+      "Real world projects, portfolio building, and career readiness"
+    ],
     "duration": "12 weeks",
     "level": "Beginner friendly",
     "requirements": "No prior experience is required.",
-    "certificate": "A certificate is issued upon successful completion. Current conditions are shared during registration.",
+    "certificate": "A certificate is issued upon successful completion.",
     "instructor": null,
-    "registrationNote": "The current listed price is ₦100,000. Ask about the next cohort, payment process, and current access details.",
     "image": "/assets/course-data-science-mentorship.webp",
-    "relatedSlugs": ["spss-excel", "powerbi-tableau-sql", "tableau"]
+    "relatedSlugs": [
+      "spss-excel",
+      "powerbi-tableau-sql",
+      "tableau"
+    ]
   },
   {
     "slug": "tableau",
@@ -178,18 +317,37 @@
     "price": "Free masterclass",
     "summary": "Learn how to connect data, build visualisations, create dashboards, and tell clearer stories with Tableau.",
     "overview": "This free online masterclass introduces Tableau through data connections, preparation, analysis, visualisation, dashboards, and data storytelling. It is designed as a focused entry point for people who want to present data more clearly.",
-    "outcomes": ["Connect Tableau to a data source", "Create useful visualisations from prepared data", "Build an interactive dashboard", "Use visual storytelling to communicate a finding"],
-    "audience": ["Aspiring data analysts", "Business professionals working with information", "Students and graduates interested in visualisation", "People curious about Tableau"],
-    "topics": ["Tableau interface", "Data connection and preparation", "Filtering, sorting, and grouping", "Visualisation and dashboard design", "Data storytelling"],
+    "outcomes": [
+      "Connect Tableau to a data source",
+      "Create useful visualisations from prepared data",
+      "Build an interactive dashboard",
+      "Use visual storytelling to communicate a finding"
+    ],
+    "audience": [
+      "Aspiring data analysts",
+      "Business professionals working with information",
+      "Students and graduates interested in visualisation",
+      "People curious about Tableau"
+    ],
+    "topics": [
+      "Tableau interface",
+      "Data connection and preparation",
+      "Filtering, sorting, and grouping",
+      "Visualisation and dashboard design",
+      "Data storytelling"
+    ],
     "curriculum": [],
     "duration": "Three live sessions",
     "level": null,
     "requirements": null,
     "certificate": null,
-    "instructor": "Experienced data professionals. Individual names are not published.",
-    "registrationNote": "Ask Grand Galaxy for the next available session and registration instructions.",
+    "instructor": null,
     "image": "/assets/tableau-analysis.webp",
-    "relatedSlugs": ["powerbi-tableau-sql", "data-analysis", "data-science-mentorship"]
+    "relatedSlugs": [
+      "powerbi-tableau-sql",
+      "data-analysis",
+      "data-science-mentorship"
+    ]
   },
   {
     "slug": "executive-diploma-hr",
@@ -199,18 +357,34 @@
     "format": "Professional development programme",
     "summary": "Build a broader understanding of talent acquisition, employee development, and strategic human resources practice.",
     "overview": "This programme introduces the art and science of human resources management. It is positioned for people already working in HR and for newcomers who want a stronger foundation in people management and organisational practice.",
-    "outcomes": ["Understand core human resources responsibilities", "Connect talent acquisition to employee development", "Discuss strategic HR decisions with more structure"],
-    "audience": ["HR professionals seeking advancement", "People starting in human resources", "Professionals moving toward people management"],
-    "topics": ["Talent acquisition", "Employee development", "Strategic HR practice", "Human resources management"],
+    "outcomes": [
+      "Understand core human resources responsibilities",
+      "Connect talent acquisition to employee development",
+      "Discuss strategic HR decisions with more structure"
+    ],
+    "audience": [
+      "HR professionals seeking advancement",
+      "People starting in human resources",
+      "Professionals moving toward people management"
+    ],
+    "topics": [
+      "Talent acquisition",
+      "Employee development",
+      "Strategic HR practice",
+      "Human resources management"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "The current public page does not publish a fee, schedule, delivery method, or entry criteria. Ask Grand Galaxy for current programme details.",
     "image": "/assets/business-collaboration.webp",
-    "relatedSlugs": ["project-management", "specialized-professional-development", "professional-online-training"]
+    "relatedSlugs": [
+      "project-management",
+      "specialized-professional-development",
+      "professional-online-training"
+    ]
   },
   {
     "slug": "project-management",
@@ -220,18 +394,35 @@
     "format": "Professional development course",
     "summary": "Learn the foundations of planning, organising, communicating, and leading project work.",
     "overview": "This introductory course is designed for people who want to strengthen project management skills. It focuses on useful foundations for planning work, organising workflows, communicating with a team, and supporting project progress.",
-    "outcomes": ["Understand essential project management ideas", "Break work into a clearer plan", "Communicate project work with more structure", "Recognise how leadership and workflow affect delivery"],
-    "audience": ["People beginning in project management", "Seasoned professionals refreshing their foundations", "Professionals who coordinate projects as part of their work"],
-    "topics": ["Project management foundations", "Workflow and planning", "Project leadership", "Communication for project work"],
+    "outcomes": [
+      "Understand essential project management ideas",
+      "Break work into a clearer plan",
+      "Communicate project work with more structure",
+      "Recognise how leadership and workflow affect delivery"
+    ],
+    "audience": [
+      "People beginning in project management",
+      "Seasoned professionals refreshing their foundations",
+      "Professionals who coordinate projects as part of their work"
+    ],
+    "topics": [
+      "Project management foundations",
+      "Workflow and planning",
+      "Project leadership",
+      "Communication for project work"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "The current public page does not publish a fee, schedule, delivery method, or instructor profile. Ask Grand Galaxy for the current registration route.",
     "image": "/assets/project-management.webp",
-    "relatedSlugs": ["executive-diploma-hr", "specialized-professional-development", "professional-online-training"]
+    "relatedSlugs": [
+      "executive-diploma-hr",
+      "specialized-professional-development",
+      "professional-online-training"
+    ]
   },
   {
     "slug": "professional-online-training",
@@ -241,18 +432,33 @@
     "format": "Fully online learning",
     "summary": "Explore flexible online learning for practical professional development and the specialist travel industry offer.",
     "overview": "Grand Galaxy presents online learning as a flexible route for people developing professional skills. The current detailed offer is the Professional Online Travel Industry Training programme, with learning that can be completed online at a flexible pace.",
-    "outcomes": ["Compare an online learning route with your current schedule", "Identify the professional skill area you want to develop", "Ask clearer questions about support, access, and registration"],
-    "audience": ["People seeking flexible professional learning", "Learners developing a new work related skill", "Professionals comparing online training options"],
-    "topics": ["Flexible online learning", "Professional skill development", "Travel industry learning options"],
+    "outcomes": [
+      "Compare an online learning route with your current schedule",
+      "Identify the professional skill area you want to develop",
+      "Ask clearer questions about support, access, and registration"
+    ],
+    "audience": [
+      "People seeking flexible professional learning",
+      "Learners developing a new work related skill",
+      "Professionals comparing online training options"
+    ],
+    "topics": [
+      "Flexible online learning",
+      "Professional skill development",
+      "Travel industry learning options"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "Ask Grand Galaxy about the current online learning option and the specific programme that matches your goal.",
     "image": "/assets/online-training.webp",
-    "relatedSlugs": ["professional-online-travel-industry-training", "specialized-professional-development", "digital-marketing"]
+    "relatedSlugs": [
+      "professional-online-travel-industry-training",
+      "specialized-professional-development",
+      "digital-marketing"
+    ]
   },
   {
     "slug": "professional-online-travel-industry-training",
@@ -261,19 +467,46 @@
     "kind": "Professional training",
     "format": "Fully online, flexible, self paced learning",
     "summary": "Study IATA registration, electronic visas, travel insurance, immigration law, visa applications, and proof of funds.",
-    "overview": "This online programme is designed for people entering or advancing in the travel industry. Its published subject areas cover travel operations, visa related processes, documentation, and professional practice, with a professional certificate stated on completion.",
-    "outcomes": ["Understand the main stages of travel industry support", "Recognise common visa and travel documentation needs", "Discuss travel insurance and proof of funds more clearly", "Build a foundation for professional travel conversations"],
-    "audience": ["Aspiring travel agents and consultants", "Travel industry professionals updating their skills", "People interested in starting travel industry work", "Travel enthusiasts seeking structured learning"],
-    "topics": ["IATA registration", "Electronic visa applications", "Travel insurance", "Immigration law", "Visa applications", "Proof of funds"],
-    "curriculum": ["IATA registration and accreditation", "Electronic visa applications", "Travel insurance coverage and claims", "Immigration law", "Visa applications and documentation", "Proof of funds documentation"],
+    "overview": "This online programme is designed for people entering or advancing in the travel industry. Its subject areas cover travel operations, visa related processes, documentation, and professional practice.",
+    "outcomes": [
+      "Understand the main stages of travel industry support",
+      "Recognise common visa and travel documentation needs",
+      "Discuss travel insurance and proof of funds more clearly",
+      "Build a foundation for professional travel conversations"
+    ],
+    "audience": [
+      "Aspiring travel agents and consultants",
+      "Travel industry professionals updating their skills",
+      "People interested in starting travel industry work",
+      "Travel enthusiasts seeking structured learning"
+    ],
+    "topics": [
+      "IATA registration",
+      "Electronic visa applications",
+      "Travel insurance",
+      "Immigration law",
+      "Visa applications",
+      "Proof of funds"
+    ],
+    "curriculum": [
+      "IATA registration and accreditation",
+      "Electronic visa applications",
+      "Travel insurance coverage and claims",
+      "Immigration law",
+      "Visa applications and documentation",
+      "Proof of funds documentation"
+    ],
     "duration": null,
     "level": null,
     "requirements": null,
-    "certificate": "A professional certificate is stated on the programme page. Current issuing conditions are shared during registration.",
-    "instructor": "Travel industry professionals with experience. Individual names are not published.",
-    "registrationNote": "Ask about current availability and enrolment by contacting Grand Galaxy through WhatsApp, phone, or email.",
+    "certificate": null,
+    "instructor": null,
     "image": "/assets/travel-training.webp",
-    "relatedSlugs": ["professional-online-training", "specialized-professional-development", "executive-diploma-hr"]
+    "relatedSlugs": [
+      "professional-online-training",
+      "specialized-professional-development",
+      "executive-diploma-hr"
+    ]
   },
   {
     "slug": "specialized-professional-development",
@@ -281,21 +514,35 @@
     "category": "Professional skills",
     "kind": "Professional training",
     "format": "Live online training through WhatsApp and Zoom",
-    "price": "Training is free. Certificate charges are shared on request.",
     "summary": "Choose from focused professional development options in health, safety, support work, and healthcare assistance.",
     "overview": "This is a broad professional development catalogue rather than one single syllabus. The current page presents live online options including Health, Safety and Environment, Personal Support Worker Training Level 2, and Recreational Aid Healthcare Training Level 2.",
-    "outcomes": ["Compare focused professional development options", "Ask about the subject, timing, and participation route", "Choose a learning option that matches a practical development need"],
-    "audience": ["People exploring focused professional learning", "Learners interested in health and support related topics", "Professionals who want a short live online training option"],
-    "topics": ["Health, Safety and Environment", "Personal Support Worker Training Level 2", "Recreational Aid Healthcare Training Level 2"],
+    "outcomes": [
+      "Compare focused professional development options",
+      "Ask about the subject, timing, and participation route",
+      "Choose a learning option that matches a practical development need"
+    ],
+    "audience": [
+      "People exploring focused professional learning",
+      "Learners interested in health and support related topics",
+      "Professionals who want a short live online training option"
+    ],
+    "topics": [
+      "Health, Safety and Environment",
+      "Personal Support Worker Training Level 2",
+      "Recreational Aid Healthcare Training Level 2"
+    ],
     "curriculum": [],
-    "duration": "Session dates and times are shared for each option during registration.",
+    "duration": null,
     "level": null,
     "requirements": null,
-    "certificate": "Certificate charges are available on request.",
+    "certificate": null,
     "instructor": null,
-    "registrationNote": "Ask Grand Galaxy which specialised course is currently open and how to join through WhatsApp or Zoom.",
     "image": "/assets/specialized-development.webp",
-    "relatedSlugs": ["professional-online-training", "professional-online-travel-industry-training", "executive-diploma-hr"]
+    "relatedSlugs": [
+      "professional-online-training",
+      "professional-online-travel-industry-training",
+      "executive-diploma-hr"
+    ]
   },
   {
     "slug": "powerbi-tableau-sql",
@@ -306,18 +553,41 @@
     "price": "₦20,000",
     "summary": "Learn Power BI, Tableau, SQL, and AI supported data analysis across a three week practical programme.",
     "overview": "This three week programme connects Power BI, Tableau, SQL, and AI for data analysis and visualisation. It is designed for people who want to turn data into useful reports, dashboards, and decisions in workplace, business, or freelance settings.",
-    "outcomes": ["Prepare and model data for analysis", "Build reports and dashboards in Power BI and Tableau", "Use SQL queries to work with structured data", "Explore AI supported analysis and visualisation"],
-    "audience": ["Workplace professionals", "People applying data analysis in business", "Freelancers and analysts", "Learners building practical data skills"],
-    "topics": ["Power BI data modelling, Power Query, DAX, reports, and dashboards", "Tableau data connections, calculations, reports, dashboards, and storytelling", "SQL databases, queries, joins, aggregation, and practical analysis", "AI applications and prompt engineering for data analysis"],
-    "curriculum": ["Power BI from setup through data modelling, DAX, analysis, reports, and dashboards", "Tableau from data connection through calculations, reporting, dashboards, and storytelling", "SQL from database structure through queries, joins, aggregation, and analysis", "AI for data analysis and visualisation"],
+    "outcomes": [
+      "Prepare and model data for analysis",
+      "Build reports and dashboards in Power BI and Tableau",
+      "Use SQL queries to work with structured data",
+      "Explore AI supported analysis and visualisation"
+    ],
+    "audience": [
+      "Workplace professionals",
+      "People applying data analysis in business",
+      "Freelancers and analysts",
+      "Learners building practical data skills"
+    ],
+    "topics": [
+      "Power BI data modelling, Power Query, DAX, reports, and dashboards",
+      "Tableau data connections, calculations, reports, dashboards, and storytelling",
+      "SQL databases, queries, joins, aggregation, and practical analysis",
+      "AI applications and prompt engineering for data analysis"
+    ],
+    "curriculum": [
+      "Power BI from setup through data modelling, DAX, analysis, reports, and dashboards",
+      "Tableau from data connection through calculations, reporting, dashboards, and storytelling",
+      "SQL from database structure through queries, joins, aggregation, and analysis",
+      "AI for data analysis and visualisation"
+    ],
     "duration": "3 weeks",
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "The current listed price is ₦20,000 for the complete package. Ask about the next available start and current delivery details.",
     "image": "/assets/course-powerbi-tableau-sql.webp",
-    "relatedSlugs": ["tableau", "spss-excel", "data-science-mentorship"]
+    "relatedSlugs": [
+      "tableau",
+      "spss-excel",
+      "data-science-mentorship"
+    ]
   },
   {
     "slug": "excel-challenge",
@@ -328,18 +598,38 @@
     "price": "₦16,500",
     "summary": "Build Excel confidence through daily challenges, practical project work, and a dashboard you create yourself.",
     "overview": "The 30 Day Excel Challenge is a practice programme for people who want to become more confident using Excel. It combines daily challenges with an applied project and dashboard so learners can practise consistently.",
-    "outcomes": ["Build a regular Excel practice habit", "Work through daily data tasks", "Create an Excel project and dashboard", "Recognise where more support would help"],
-    "audience": ["People who struggle with Excel", "Learners who want regular practice", "Aspiring advanced Excel users"],
-    "topics": ["Daily Excel challenges", "Applied Excel project work", "Dashboard creation"],
-    "curriculum": ["Daily practice challenges", "Build an Excel project", "Build an Excel dashboard"],
+    "outcomes": [
+      "Build a regular Excel practice habit",
+      "Work through daily data tasks",
+      "Create an Excel project and dashboard",
+      "Recognise where more support would help"
+    ],
+    "audience": [
+      "People who struggle with Excel",
+      "Learners who want regular practice",
+      "Aspiring advanced Excel users"
+    ],
+    "topics": [
+      "Daily Excel challenges",
+      "Applied Excel project work",
+      "Dashboard creation"
+    ],
+    "curriculum": [
+      "Daily practice challenges",
+      "Build an Excel project",
+      "Build an Excel dashboard"
+    ],
     "duration": "30 days",
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "The current listed price is ₦16,500. Ask Grand Galaxy about access, start timing, and current registration instructions.",
     "image": "/assets/course-excel-challenge.webp",
-    "relatedSlugs": ["spss-excel", "spss-simplified", "data-analysis"]
+    "relatedSlugs": [
+      "spss-excel",
+      "spss-simplified",
+      "data-analysis"
+    ]
   },
   {
     "slug": "spss-simplified",
@@ -350,18 +640,38 @@
     "price": "₦16,500",
     "summary": "Learn SPSS from the basics through statistical tests, visualisation, and interpretation with practical guidance.",
     "overview": "SPSS Simplified is a hands on masterclass for researchers, students, professionals, and learners who want to work with SPSS without feeling overwhelmed. It uses practical exercises and real datasets to move from the basics toward more advanced concepts.",
-    "outcomes": ["Navigate the SPSS interface", "Prepare and code data", "Run and interpret common statistical tests", "Present and explain SPSS output"],
-    "audience": ["Researchers and academics", "Students working on projects or dissertations", "Professionals developing statistical analysis skills", "Learners who want a structured SPSS starting point"],
-    "topics": ["SPSS interface navigation", "Data entry, cleaning, and coding", "T tests, ANOVA, and chi square tests", "Descriptive and inferential statistics", "Graphs, charts, and visualisations", "Interpreting output"],
+    "outcomes": [
+      "Navigate the SPSS interface",
+      "Prepare and code data",
+      "Run and interpret common statistical tests",
+      "Present and explain SPSS output"
+    ],
+    "audience": [
+      "Researchers and academics",
+      "Students working on projects or dissertations",
+      "Professionals developing statistical analysis skills",
+      "Learners who want a structured SPSS starting point"
+    ],
+    "topics": [
+      "SPSS interface navigation",
+      "Data entry, cleaning, and coding",
+      "T tests, ANOVA, and chi square tests",
+      "Descriptive and inferential statistics",
+      "Graphs, charts, and visualisations",
+      "Interpreting output"
+    ],
     "curriculum": [],
     "duration": null,
     "level": "Beginner to advanced",
     "requirements": "No prior experience is required.",
     "certificate": null,
     "instructor": "Bernard, described as an experienced data analyst and researcher.",
-    "registrationNote": "The current catalogue lists ₦16,500 for the related exclusive group. Ask about the current masterclass access and next available registration.",
     "image": "/assets/course-spss-simplified.webp",
-    "relatedSlugs": ["spss-excel", "data-analysis", "data-science-mentorship"]
+    "relatedSlugs": [
+      "spss-excel",
+      "data-analysis",
+      "data-science-mentorship"
+    ]
   },
   {
     "slug": "r-stata",
@@ -372,17 +682,34 @@
     "price": "₦25,500",
     "summary": "Develop practical experience with data cleaning, statistical modelling, visual presentation, and econometric work in R and Stata.",
     "overview": "This programme supports researchers, analysts, and professionals working on academic, business, or policy projects. Its published subject areas cover data cleaning, statistical modelling, visual presentation, and advanced econometric modelling.",
-    "outcomes": ["Prepare data for analysis", "Discuss statistical modelling choices", "Present results in a clearer visual form", "Recognise how econometric methods support applied projects"],
-    "audience": ["Researchers", "Analysts", "Professionals working with academic, business, or policy projects"],
-    "topics": ["Data cleaning", "Statistical modelling", "Data visualisation and presentation", "Advanced econometric modelling"],
+    "outcomes": [
+      "Prepare data for analysis",
+      "Discuss statistical modelling choices",
+      "Present results in a clearer visual form",
+      "Recognise how econometric methods support applied projects"
+    ],
+    "audience": [
+      "Researchers",
+      "Analysts",
+      "Professionals working with academic, business, or policy projects"
+    ],
+    "topics": [
+      "Data cleaning",
+      "Statistical modelling",
+      "Data visualisation and presentation",
+      "Advanced econometric modelling"
+    ],
     "curriculum": [],
     "duration": null,
     "level": null,
     "requirements": null,
     "certificate": null,
     "instructor": null,
-    "registrationNote": "The current catalogue lists ₦25,500. Ask Grand Galaxy about the current delivery format, start timing, and checkout route.",
     "image": "/assets/course-r-stata.webp",
-    "relatedSlugs": ["spss-excel", "data-analysis", "data-science-mentorship"]
+    "relatedSlugs": [
+      "spss-excel",
+      "data-analysis",
+      "data-science-mentorship"
+    ]
   }
 ]

@@ -20,7 +20,6 @@ export type Programme = {
   requirements: string | null;
   certificate: string | null;
   instructor: string | null;
-  registrationNote: string;
   image: string;
   relatedSlugs: string[];
 };

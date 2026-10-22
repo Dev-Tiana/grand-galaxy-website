@@ -100,7 +100,7 @@ export function RegisterForm({ defaultProgramme = '' }: { defaultProgramme?: str
     if (!name || !email || !phone || !programme || !format) { setError('Please complete your name, email, phone number, programme, and preferred format.'); return; }
     if (!validEmail(email)) { setError('Please enter a valid email address.'); return; }
     const selected = programmes.find((item) => item.title === programme || item.slug === programme);
-    const body = ['NEW TRAINING REGISTRATION', `Full Name: ${name}`, `Email Address: ${email}`, `Phone Number: ${phone}`, `Selected Programme: ${selected?.title || programme}`, `Preferred Training Format: ${format}`, '', `Additional Information: ${note || 'Please share the current registration details.'}`].join('\n');
+    const body = ['NEW TRAINING REGISTRATION', `Full Name: ${name}`, `Email Address: ${email}`, `Phone Number: ${phone}`, `Selected Programme: ${selected?.title || programme}`, `Preferred Training Format: ${format}`, '', `Additional Information: ${note || 'Please share what you want to know about this programme.'}`].join('\n');
     setPreparedUrl(openWhatsApp(body));
     track('training_registration_prepare');
   }
