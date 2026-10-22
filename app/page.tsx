@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { ArrowRight, Check } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { ButtonLink, ProgrammeChip, SectionHeading } from '@/components/ui';
 import { brand, faqs, programmes, resources, services } from '@/lib/content';
 
@@ -25,12 +25,11 @@ export default function HomePage() {
       <div className="container hero-grid">
         <div className="hero-copy reveal-up">
           <p className="eyebrow">Training and professional services</p>
-          <h1 className="display">Learn Practical Skills. Get Professional Solutions.</h1>
-          <p className="lede">Build valuable skills in technology, data, digital marketing, and professional development. Need expert support for your business or project? Explore our professional services and discover how Grand Galaxy can help.</p>
+          <h1 className="display">Learn Tech and Digital Skills. Get Expert Solutions for Your Business.</h1>
+          <p className="lede">We help individuals build practical skills in data analysis, web development, digital marketing, UI UX design, and more. We also help businesses and organizations with professional digital and business services.</p>
           <div className="hero-actions"><ButtonLink href="/training">Explore Training</ButtonLink><ButtonLink href="/services" variant="secondary">Explore Our Services</ButtonLink></div>
-          <div className="hero-proof" aria-label="What Grand Galaxy offers"><span><Check size={16} /> Practical training</span><span><Check size={16} /> Professional support</span><span><Check size={16} /> Clear next steps</span></div>
         </div>
-        <div className="hero-art reveal-up reveal-delay" role="img" aria-label="Professional learner working with a laptop and notebook"><div className="hero-photo-frame"><img src="/assets/hero-learning.webp" alt="Professional learner working with a laptop and notebook" /></div><div className="hero-note"><strong>Learn. Build. Move forward.</strong><span>Skills and solutions for what comes next</span></div></div>
+        <div className="hero-art reveal-up reveal-delay" role="img" aria-label="Professional learner working with a laptop and notebook"><div className="hero-photo-frame"><img src="/assets/hero-learning.webp" alt="Professional learner working with a laptop and notebook" /></div><div className="hero-note"><strong>Learn Skills. Build Possibilities.</strong><span>Technology Training | Professional Services</span></div></div>
       </div>
     </section>
 

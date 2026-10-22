@@ -110,3 +110,16 @@ Deep blue `#140D91` is the ownable signature color. It connects the original log
 ## Open approvals
 
 The business still needs to confirm the legal identity, current operating address, preferred public name, service area, current programme list, programme dates, fees, delivery channels, credentials, team profiles, testimonials, payment terms, refund policy, data retention policy, and whether a CMS is needed. These are documented rather than guessed.
+
+
+## Phase 2 refinement plan
+
+Preserve the existing brand shell, homepage sections, service experience, catalogue, forms, animations, and responsive design. Refine only the homepage hero, programme detail experience, training navigation, and enquiry handoffs requested in the Phase 2 brief.
+
+The homepage hero will use the supplied customer focused headline and supporting paragraph. On small screens the content order will be category label, headline, supporting copy, actions, then the existing photograph with the refined overlay. Desktop will retain a balanced two column composition. The three repetitive proof phrases will be removed because the new hero message already communicates the two audiences.
+
+The programme content model will gain audience, learning outcomes, curriculum where explicitly supported, practical value, details, FAQs, and related programme references. Each catalogue entry will continue to map to `/training/[slug]`, and no programme detail page will render a link to the old site. Missing programme facts will be omitted from public copy and recorded privately in the research handoff.
+
+Programme pages will use a consistent learning product hierarchy inspired by course discovery best practice without copying Coursera: breadcrumb and hero, image, overview, learning outcomes, audience, curriculum or subject coverage, details panel, practical value, FAQs, registration and programme enquiry actions, and related programmes. Registration and enquiry forms will prepare WhatsApp messages for `https://wa.me/2348105043903` and explain that the visitor must press Send in WhatsApp. No false submission success state will be shown.
+
+The website will retain the static Next.js export contract. Checks include source and route audits, `pnpm typecheck`, `pnpm build`, internal link validation, representative responsive checks, WhatsApp URL and message construction tests, and a public copy scan for forbidden dash characters and internal development disclaimers.
